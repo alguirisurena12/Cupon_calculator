@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+#Coupon {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
