@@ -12,7 +12,7 @@ couponsList.push({
 });
 
 couponsList.push({
-  name: 'Zeta_Halo',
+  name: 'Orion',
   discount: 5,
 });
 
@@ -22,7 +22,7 @@ couponsList.push({
 });
 
 couponsList.push({
-  name: 'Spartans_Never_Die',
+  name: 'Cassini',
   discount: 15,
 });
 
